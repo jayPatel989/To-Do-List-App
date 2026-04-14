@@ -73,9 +73,3 @@ The app will open in your browser
 * Dark mode
 * Mobile responsive design
 * Sync with backend/database
-
----
-
-Give it a ⭐ on GitHub and feel free to fork it!
-
----
